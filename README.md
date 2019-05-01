@@ -45,3 +45,22 @@ The most basic output that can be generated from the following code are:
  <pre><code>{'label': 'POSITIVE',
  'score': 0.6806764006614685,
  'elapsed_time': 0.1733388900756836}</code></pre>
+ 
+ #### Graph for multiple scores ####
+ ![](./images/graph.png)
+ 
+ 
+ ## Built with ##
+ 
+ * [Named Link](https://jupyter.org "Jupyter Notebook") - Used to display the results of the program
+ * [Named Link](http://keras.io "Keras Library") - Python Deep Learning Library 
+ 
+  ## References ##
+  
+  1. Dataset - Named Link](https://www.kaggle.com/kazanova/sentiment140 "1.6 million Twitter Sentiments")
+  2. Reference Tutorial - Named Link](https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis/comments "Twitter Sentiment Analysis")
+ 
+ ## Acknowledgements ##
+ 
+ * Thanks to @sohaamutsaddi for handling the complete documentation
+ 
