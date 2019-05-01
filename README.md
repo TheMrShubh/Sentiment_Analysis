@@ -52,13 +52,13 @@ The most basic output that can be generated from the following code are:
  
  ## Built with ##
  
- * [Named Link](https://jupyter.org "Jupyter Notebook") - Used to display the results of the program
- * [Named Link](http://keras.io "Keras Library") - Python Deep Learning Library 
+ * [Jupyter Notebook](https://jupyter.org) - Used to display the results of the program
+ * [Keras Library](http://keras.io) - Python Deep Learning Library 
  
   ## References ##
   
-  1. Dataset - Named Link](https://www.kaggle.com/kazanova/sentiment140 "1.6 million Twitter Sentiments")
-  2. Reference Tutorial - Named Link](https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis/comments "Twitter Sentiment Analysis")
+  1. Dataset - [1.6 million Twitter Sentiments](https://www.kaggle.com/kazanova/sentiment140 )
+  2. Reference Tutorial - [Twitter Sentiment Analysis](https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis/comments)
  
  ## Acknowledgements ##
  
