@@ -18,7 +18,7 @@ This project creates a model which analyses the input text entry, generates an s
     3. Gensim
     4. NLTK
     
-## Basic Output ##
+## Program Output ##
 
 The most basic output that can be generated from the following code are:
 
